@@ -8,7 +8,7 @@
 2. Divide by 2: `x = 3`
 
 $$2(3) + 5 = 11$$
-## Problem 4 (Real Khan Academy)
+## Problem 2 (Real Khan Academy)
 **Exercise**: Solve the system:
 x + y = 5
 2x - y = 1
