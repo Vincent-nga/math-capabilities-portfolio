@@ -15,7 +15,8 @@ $$
 \begin{cases}
 x + y = 5
 2x - y = 1
-\end{cases}$$
+\end{cases}
+$$
 
 **Solution**:
 1. Add equations: $3x = 6$ → $x = 2$
