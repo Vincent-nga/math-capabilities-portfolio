@@ -12,10 +12,10 @@
 ## Problem 2 (Real Khan Academy)
 **Exercise**: **Solve the system**:
 
-$$\begin{cases}
+
     x+y=15\\
     2x-y=15
-\end{cases}$$
+
 **Solution**:
 1. Add equations: $3x = 6$ → $x = 2$
 2. Substitute: $2 + y = 5$ → $y = 3$
