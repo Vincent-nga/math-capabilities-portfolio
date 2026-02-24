@@ -11,7 +11,7 @@
 
 ## Problem 2 (Real Khan Academy)
 **Exercise**: Solve the system:
-$$\begin{cases} x + y = 5 \\ 2x - y = 1 \end{cases}$$
+$$\begin{cases} x + y = 5 \\ 2x - y = 1\end{cases}$$
 
 **Solution**:
 1. Add equations: $3x = 6$ → $x = 2$
