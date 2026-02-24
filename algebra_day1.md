@@ -13,7 +13,7 @@
 **Exercise**: Solve the system:
 $$
 \begin{cases}
-x + y = 5\\
+x + y = 5 \\
 2x - y = 1
 \end{cases}
 $$
