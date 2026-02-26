@@ -183,9 +183,9 @@ $$h(n)=-13n$$
 3. Take \[(2)\]-\[\h(1)]: $-26-(-13)=-13$
    So the first term of the sequence is -13 and the common diference is -13
    Thus the recursive formula is:
-   \begin{cases}
+   $$\begin{cases}
 h(1)=\{-13}
 \\\\
 h(n)=h(n-1)+({-13})
-\end{cases}
+\end{cases}$$
 
