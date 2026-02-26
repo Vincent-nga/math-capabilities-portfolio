@@ -9,7 +9,7 @@
 
 **Verification**: $$2(3) + 5 = 11$$
 
-## Problem 2 (Real Khan Academy)
+## Problem 2 
 **Exercise**: **Solve the system**:
 
 
@@ -24,7 +24,7 @@
 
 $$x = 2, y = 3$$
 
-##Problem 3
+## Problem 3
 **Evaluate**: $13+ \frac{6}{Y}$ when $y=6$
 
 **Solution**
@@ -33,7 +33,7 @@ $$x = 2, y = 3$$
    
 **Answer**: $$14$$
 
-##Problem 4
+## Problem 4
 **Solve**: $6x + 3 = 9$
 
 **Solution**:
@@ -42,7 +42,7 @@ $$x = 2, y = 3$$
 
 **Verification**: $$\frac{6}{1} + 3 = 9 \checkmark$$
 
-##Problem 5
+## Problem 5
 **Evaluate**: $8r-rs$ where $r=6$ and $s=5$
 
 **Solution**
@@ -51,7 +51,7 @@ $$x = 2, y = 3$$
 
    **Answer**:$18$
 
-##Problem 6
+## Problem 6
 **Evaluate**: $8a+3b-10+c^2$ 
    when $a=2$,$b=5$ and $c=4$
 
@@ -61,7 +61,7 @@ $$x = 2, y = 3$$
 
    **Answer**: $37$
 
-##Problem 7
+## Problem 7
 **Evaluate**: $$5w-\frac{w}{x}$$ when $w=6$ and $x=2$
 
 **Solution**
@@ -70,7 +70,7 @@ $$x = 2, y = 3$$
 
   **Answer**: $27$
 
-##Problem 8
+## Problem 8
 **Evaluate**: $$f^3+11g-4h$$ 
  when  $f=3$, $g=2$ and $h=7$
 
@@ -80,7 +80,7 @@ $$x = 2, y = 3$$
 
  **Answer**: $21$
 
- ##Problem 9
+ ## Problem 9
 **Solve**: $${5k+(-2k)-(-1)} =$$
 
 **Solution**: 
@@ -89,7 +89,7 @@ $$x = 2, y = 3$$
 
  **Answer**: $3k+1$
 
-##Problem 10
+## Problem 10
 **Solve**: $$-4p+(-2)+2p+3 =$$
 
 **Solution**
@@ -98,7 +98,7 @@ $$x = 2, y = 3$$
 
  **Answer**: $-2p+1$
 
-##Problem 11
+## Problem 11
 **Solve for c**: $$12c-4=14c-10$$
 
 **Solution**
@@ -108,7 +108,7 @@ $$x = 2, y = 3$$
 
   **Verification**: $$12(3)-4=14(3-10)\checkmark$$ 
 
-##Problem 12
+## Problem 12
 **Solve for x**: $$-7x+1\geq 22$$
 
 **Solution**
@@ -117,7 +117,7 @@ $$x = 2, y = 3$$
 
 **Verication**: $$-7(-3)+1\geq 22\checkmark$$
 
-##Problem 13
+## Problem 13
 The house Trevor's family lives in has \[6\] people (including Trevor) and 
 \[3\] bathrooms. In the past month, each person showered for an average of 
 \[480\] minutes and used an average \[72\] liters of shower water (over the entire month). Water costs \[0.20\] dollars per liter.
@@ -139,7 +139,7 @@ $$432 \times 0.20 = 86.40$$
 
 **Answer**: $\$86.40$
 
-##Problem 14
+## Problem 14
 Two candles start burning at the same time. One candle is 
 \[15\,\text{cm}\] tall and burns at a rate of 
 \[5\,\text{cm}\] every 
@@ -173,7 +173,7 @@ $$h_1(6) = 15 - \frac{5}{6} \times 6 = 15 - 5 = 10 \text{ cm}$$
 
 **Answer**: $$10 \text{ cm}$$
 
-##Problem 15
+## Problem 15
 $$h(n)=-13n$$
 *Complete the recursive formula of \[h(n)\]*
 
